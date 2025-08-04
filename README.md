@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @RumeysaAksu
-- 👀 I’m interested in Bioinformatics
-- 🌱 I’m currently learning R Programming
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Bioinformatics related projects
 - 📫 How to reach me aksu.rmys7@gmail.com
 <!---
 RumeysaAksu/RumeysaAksu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
